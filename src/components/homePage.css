@@ -1,0 +1,12 @@
+table {
+	white-space: nowrap;
+}
+
+/* ::-webkit-scrollbar {
+	visibility: hidden;
+} */
+
+.custom-scroll > .simplebar-track.simplebar-horizontal {
+	background: white;
+	border-radius: 7px;
+}
