@@ -1,8 +1,13 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a demo example to highlight custom scrollbar, which should be visible always on all browsers.
 
-Currently, two official plugins are available:
+## To Setup
+`npm install`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## To run
+`npm run dev`
+
+## Issues
+Please check if your node version is v18.17. It can be checked using `node -v`
+If not, please upgrade it to v18.17 using nvm
